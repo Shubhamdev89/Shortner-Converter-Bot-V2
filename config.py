@@ -16,7 +16,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "Shubham")
 DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Shubham:Shubhram89@cluster0.rqe6k2e.mongodb.net/?retryWrites=true&w=majority") 
 OWNER_ID =  int(os.environ.get("OWNER_ID", "6164919099")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
-ADMINS.append(Id Owned Id)
+ADMINS.append(6164919099)
 #  Optionnal variables
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001899231989")) 
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "mdiskconvertorupdates") # For Force Subscription
