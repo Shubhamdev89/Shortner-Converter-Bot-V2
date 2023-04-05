@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 START_MESSAGE = '''**Hello, {}
 I Am Mdiskconvertor.site, Bulk Link Converter. I Can Convert Links Directly From Your Mdiskconvertor Account,
     
-1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
+1. Go To 👉 https://Linkpays.in/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -22,9 +22,9 @@ If You Want Any **Other Shortner** Link Converter Bot Instead Of Shortnerfly tha
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From Your Mdiskconvertor Account,**
+I Am Linkpays Shortner Bot, Bulk Link Converter Bot. I Can Convert Links Directly From Your Linkpays Account,**
     
-1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
+1. Go To 👉 https://Linkpays.in/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -37,14 +37,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Mdiskconvertor** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Linkpays** than **contact** at 👉 @Shubhamdev64 (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @mdisk_url_convertor_bot. I am Mdisk URL Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is Linkpays Shortner Bot. I am Linkpays URL Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Mdiskconvertor** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **Linkpays** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -65,7 +65,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: http://t.me/mdisk_url_convertor_bot | Mdiskconvertor"""
+Ex: https://Linkpays.in | Linkpays"""
 
 
 ADMINS_MESSAGE = """
@@ -110,9 +110,9 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://mdiskconvertor.site/ref/Shubham)
+- Website: [{base_site}](https://linkpays.in/ref/Shubham78)
 
-- Site Link {base_site} Current Linked API: {Mdiskconvertor_api}
+- Site Link {base_site} Current Linked API: {Linkpays_Api}
 
 - Replace Channel Username: @{username}
 
@@ -131,7 +131,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://mdiskconvertor.site/ref/Shubham)
+Get API From [{base_site}](https://linkpays.in/ref/Shubham78)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -149,14 +149,14 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Harman, I am Mdisk URL convertor, Bulk Link Converter Bot From Linked shortnerfly.com Account,**
+USERNAME_TEXT = """**Hello Shubham, I am Linkpays URL convertor, Bulk Link Converter Bot From Linked shortnerfly.com Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @mdisk_url_convertor_bot
+/channel https://t.me/Shubham_Developer
 Or
-/channel http://t.me/mdisk_url_convertor_bot
+/channel http://t.me/Shubham_Developer
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
